@@ -1,0 +1,59 @@
+index,Description,Value
+0,session_id,6523
+1,Target,Price
+2,Original Data,"6000,8"
+3,Missing Values,FALSE
+4,Numeric Features,1
+5,Categorical Features,6
+6,Ordinal Features,FALSE
+7,High Cardinality Features,FALSE
+8,High Cardinality Method,
+9,Transformed Train Set,"4199,28"
+10,Transformed Test Set,"1801,28"
+11,Shuffle Train-Test,TRUE
+12,Stratify Train-Test,FALSE
+13,Fold Generator,KFold
+14,Fold Number,10
+15,CPU Jobs,-1
+16,Use GPU,FALSE
+17,Log Experiment,FALSE
+18,Experiment Name,reg-default-name
+19,USI,f9c6
+20,Imputation Type,simple
+21,Iterative Imputation Iteration,None
+22,Numeric Imputer,mean
+23,Iterative Imputation Numeric Model,None
+24,Categorical Imputer,constant
+25,Iterative Imputation Categorical Model,None
+26,Unknown Categoricals Handling,least_frequent
+27,Normalize,FALSE
+28,Normalize Method,None
+29,Transformation,FALSE
+30,Transformation Method,None
+31,PCA,FALSE
+32,PCA Method,None
+33,PCA Components,None
+34,Ignore Low Variance,FALSE
+35,Combine Rare Levels,FALSE
+36,Rare Level Threshold,None
+37,Numeric Binning,FALSE
+38,Remove Outliers,FALSE
+39,Outliers Threshold,
+40,Remove Multicollinearity,FALSE
+41,Multicollinearity Threshold,
+42,Remove Perfect Collinearity,TRUE
+43,Clustering,FALSE
+44,Clustering Iteration,
+45,Polynomial Features,FALSE
+46,Polynomial Degree,
+47,Trignometry Features,FALSE
+48,Polynomial Threshold,
+49,Group Features,FALSE
+50,Feature Selection,FALSE
+51,Feature Selection Method,classic
+52,Features Selection Threshold,
+53,Feature Interaction,FALSE
+54,Feature Ratio,FALSE
+55,Interaction Threshold,
+56,Transform Target,FALSE
+57,Transform Target Method,box-cox
